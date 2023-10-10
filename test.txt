@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hahahahaha
-=======
 
->>>>>>> df3d1ab0f731a2e4dc49379a99e7691c165d089c
